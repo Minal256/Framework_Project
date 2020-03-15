@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21126" started-at="2020-03-03T13:31:50Z" finished-at="2020-03-03T13:32:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21126" started-at="2020-03-03T13:31:50Z" finished-at="2020-03-03T13:32:11Z">
+      <class name="Autocomplete.RedBus">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:Autocomplete.RedBus@3dd3bcd]" name="Setup" is-config="true" duration-ms="11392" started-at="2020-03-03T19:01:50Z" finished-at="2020-03-03T19:02:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="openUrl()[pri:0, instance:Autocomplete.RedBus@3dd3bcd]" name="openUrl" duration-ms="9713" started-at="2020-03-03T19:02:01Z" finished-at="2020-03-03T19:02:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+      </class> <!-- Autocomplete.RedBus -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
